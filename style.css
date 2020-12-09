@@ -1,0 +1,22 @@
+body {
+  height: 95vh;
+  width: 95;
+  background-color: #ffb3b3;
+  display: flex;
+  justify-content: center; /*alinha horizontalmente no meio*/
+  align-items: center; /*alinha verticalmente no meio*/
+  flex-direction: column; /*para deixar itens abaixo um do outro*/
+}
+
+body h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #fff;
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+body p {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 20px;
+}
